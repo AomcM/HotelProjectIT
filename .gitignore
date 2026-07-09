@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter
+.dart_tool/
+.packages
+build/
+
+# Android
+android/.gradle/
