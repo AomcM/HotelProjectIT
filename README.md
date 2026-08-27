@@ -7,14 +7,12 @@ README
 - ASP.NET Core Web API
 - MySQL
 - Entity Framework Core
-- JWT Authentication
 - Gemini AI
 - Firebase Cloud Messaging
 
 ✨ Features
 - User Authentication
 - IT Ticket Management
-- Asset Management
 - AI Ticket Analysis
 - Notifications
 - Role-Based Access Control
